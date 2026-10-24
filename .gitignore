@@ -1,0 +1,5 @@
+config.php
+.htaccess
+*.zip
+*debug*.txt
+last_response.json
